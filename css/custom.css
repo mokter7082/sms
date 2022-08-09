@@ -1,0 +1,13 @@
+.learn_tex {
+  padding: 10px 32px !important;
+  border-radius: 17px;
+}
+.learn_text:hover {
+  border-radius: 17px;
+  box-shadow: 0 11px 16px 7px rgb(8 13 163 / 4%);
+  cursor: pointer;
+}
+.enable_card:hover {
+  box-shadow: 0 0 8px 4px #f3f5fc;
+  cursor: pointer;
+}
