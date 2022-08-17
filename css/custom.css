@@ -11,3 +11,10 @@
   box-shadow: 0 0 8px 4px #f3f5fc;
   cursor: pointer;
 }
+.container {
+  margin: auto;
+}
+.global-section {
+  background-image: url("https://www.plivo.com/assets/dist/new-design/sms/page-background-image-for-sms.svg");
+  padding-top: 80px;
+}
