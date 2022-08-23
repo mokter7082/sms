@@ -18,3 +18,7 @@
   background-image: url("https://www.plivo.com/assets/dist/new-design/sms/page-background-image-for-sms.svg");
   padding-top: 80px;
 }
+.received_container {
+  background-image: url("https://www.plivo.com/assets/dist/new-design/sms/page-background-image-for-sms.svg");
+  /* padding-top: 80px; */
+}
